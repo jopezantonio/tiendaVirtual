@@ -1,0 +1,25 @@
+.cajas {
+    color: var(--deepdark-color);
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.cajaIndividual{
+    max-width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 0.5px solid var(--secondary-color);
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+   
+
+}
+
+.cajaIndividual p{
+    font-size: 10px;
+}

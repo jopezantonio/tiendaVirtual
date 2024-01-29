@@ -1,0 +1,34 @@
+@media(max-width: 800px){
+    .menuMobile {
+        display:flex;
+    }
+    nav ul {
+        display:none;
+    }
+    .imgContainer img {
+        width: 75px;
+    }
+}
+
+@media(max-width: 980px){
+    .banner {
+        flex: none; 
+        margin: 0;  
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    
+    }
+}
+
+
+@media (max-width: 980px) {
+    .imgContainer {
+        width: 85vw;
+        height: auto;
+        /* Cambiar el ancho al 75% en pantallas más pequeñas */
+    }
+}
+
+

@@ -1,0 +1,31 @@
+
+:root{
+    --primary-color:#4f4aa6;
+    --secondary-color:#48ca95;
+    --bg-color:#f7f7f7;
+    --ligth-color:#fff;
+    --deepdark-color:#000000;
+
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../Assets/fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: Poppins-bold;
+    src: url(../Assets/fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: Poppins-extrabold;
+    src: url(../Assets/fonts/Poppins-ExtraBold.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins;
+}

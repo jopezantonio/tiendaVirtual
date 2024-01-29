@@ -1,0 +1,23 @@
+@media(max-width: 980px){
+    .cajas {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .cajaIndividual{
+        max-width: none;
+        width: 400px;
+    }
+    
+    .cajaIndividual img{
+        width: 15vw;
+        height: auto;
+}
+.cajaIndividual h3{
+    font-size: 30px;
+}
+.cajaIndividual p{
+    font-size: 20px;
+}
+}
