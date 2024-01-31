@@ -41,6 +41,8 @@ nav ul li a:hover {
 .textBoxBanner {
     align-items: center;
     margin-bottom: 95px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .imgContainer img {

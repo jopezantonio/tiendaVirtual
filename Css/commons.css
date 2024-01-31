@@ -23,6 +23,11 @@
     src: url(../Assets/fonts/Poppins-ExtraBold.ttf);
 }
 
+@font-face {
+    font-family: Poppins-ligth;
+    src: url(../Assets/fonts/Poppins-Light.ttf);
+}
+
 *{
     margin: 0;
     padding: 0;
